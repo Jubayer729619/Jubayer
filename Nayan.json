@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
-  "PREFIX": ".",
+  "BOTNAME": "𝙹𝚄𝙱𝙰𝚈𝙴𝚁-𝙱𝙾𝚃=/🩷🪽",
+  "PREFIX": "?",
   "OPERATOR": [
     "100065050393649",
     "100003915536329"
   ],
   "ADMINBOT": [
-    "100065050393649",
-    "100003915536329"
+    "100092747803433",
+    "100092747803433"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
